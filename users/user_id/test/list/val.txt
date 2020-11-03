@@ -1,0 +1,1 @@
+./users/user_id/test/image/000003_0.jpg ./users/user_id/test/labels/000003_0.png
